@@ -4,27 +4,29 @@ const Experience = () => {
   const experiences = [
     {
       id: 1,
-      role: "Senior Frontend Developer",
-      company: "Tech Solutions Inc.",
-      period: "2020 - Present",
+      role: "Frontend Developer",
+      company: "Edutams",
+      period: "2024 - 2025",
       description:
         "Leading frontend development for various client projects, implementing React.js applications, and mentoring junior developers.",
-      skills: ["React", "TypeScript", "Redux", "Tailwind CSS"],
+      skills: ["React", "Node.js", "Laravel", "MySQL", "PHP"],
     },
+
     {
       id: 2,
       role: "Frontend Developer",
-      company: "Web Innovations LLC",
-      period: "2018 - 2020",
+      company: "Edutams",
+      period: "2023 - 2024",
       description:
         "Developed responsive web applications using modern JavaScript frameworks and collaborated with UX designers.",
       skills: ["JavaScript", "Vue.js", "SASS", "Webpack"],
     },
+  
     {
       id: 3,
       role: "Junior Web Developer",
-      company: "Digital Creations",
-      period: "2017 - 2018",
+      company: "Edutams",
+      period: "2022- 2023",
       description:
         "Built and maintained client websites using HTML, CSS, and JavaScript. Assisted in implementing new features.",
       skills: ["HTML5", "CSS3", "JavaScript", "jQuery"],
