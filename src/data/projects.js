@@ -15,7 +15,7 @@ export const projectsData = [
         image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
         technologies: ["React", "Firebase", "Material UI", "Redux"],
         liveLink: "#",
-        githubLink: "#"
+        githubLink: "https://github.com/Adaramaja-seyi/todo-task-vue#"
     },
     {
         id: 3,
@@ -40,7 +40,7 @@ export const projectsData = [
         title: "Recipe Finder App",
         description: "An application that helps users discover recipes based on ingredients they have available.",
         image: "https://images.unsplash.com/photo-1495521821757-a1efb6729352?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-        technologies: ["Vue.js", "Spoonacular API", "Vuetify", "Vuex"],
+        technologies: ["Vue.jss", "Spoonacular API", "Vuetify", "Vuex"],
         liveLink: "#",
         githubLink: "#"
     },

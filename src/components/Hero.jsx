@@ -18,7 +18,7 @@ const Hero = () => {
             </h2>
             <p className="text-gray-500 mt-6 max-w-lg">
               I create beautiful, functional websites and applications with a
-              focus on user experience and modern design principles.
+              focus on user experience and modern design principle.
             </p>
             <div className="mt-8 flex flex-wrap gap-4">
               <a
