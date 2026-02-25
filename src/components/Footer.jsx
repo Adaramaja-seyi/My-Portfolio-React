@@ -1,8 +1,6 @@
 import React from "react";
 
 const Footer = () => {
-  const currentYear = new Date().getFullYear();
-
   return (
     <footer className="bg-gray-800 text-white py-12">
       <div className="container mx-auto px-4 md:px-6">
@@ -18,7 +16,9 @@ const Footer = () => {
 
           <div className="flex space-x-6"> 
             <a
-              href="#"
+              href="https://github.com/Adaramaja-seyi"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors duration-300"
             >
               <svg
@@ -31,7 +31,9 @@ const Footer = () => {
               </svg>
             </a>
             <a
-              href="#"
+              href="https://linkedin.com"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors duration-300"
             >
               <svg
@@ -44,7 +46,9 @@ const Footer = () => {
               </svg>
             </a>
             <a
-              href="#"
+              href="https://twitter.com"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors duration-300"
             >
               <svg
@@ -57,7 +61,9 @@ const Footer = () => {
               </svg>
             </a>
             <a
-              href="#"
+              href="https://instagram.com"
+              target="_blank"
+              rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors duration-300"
             >
               <svg
@@ -73,7 +79,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-          <p>© {new Date().getFullYear()} Adaramaja Oluwaseyi. All rights reserved.</p>
+          <p>© 2025 Adaramaja Oluwaseyi. All rights reserved.</p>
         </div>
       </div>
     </footer>
