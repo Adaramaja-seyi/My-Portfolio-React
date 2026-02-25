@@ -16,7 +16,7 @@ const Footer = () => {
             </p>
           </div>
 
-          <div className="flex space-x-6">
+          <div className="flex space-x-6"> 
             <a
               href="#"
               className="text-gray-400 hover:text-white transition-colors duration-300"
